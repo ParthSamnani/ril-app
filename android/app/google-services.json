@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868303549379",
+    "firebase_url": "https://ril-app-bb543.firebaseio.com",
+    "project_id": "ril-app-bb543",
+    "storage_bucket": "ril-app-bb543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868303549379:android:c2333d96a052f357728376",
+        "android_client_info": {
+          "package_name": "com.example.receive_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868303549379-t54f1lddc1no91dbt5p52u6li8hbl8s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEagC2S2dm_Xf9DjTfdBalFKDUEk6HC4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868303549379-t54f1lddc1no91dbt5p52u6li8hbl8s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
